@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container-1 {
+    background-color: #1f2937;
+    font-family: arial;
+    color: #f9faf8;
+    padding-bottom: 50px;
+    
+    
+
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+
+    
+}
+
+.links a {
+    color: #e5e7eb;
+    text-decoration: none;
+    margin-right: 8px;
+}
+
+.nav-logo {
+    margin-left: 8px;
+}
+
+.container-2 {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.main-text  {
+    margin-top: 20px;
+    
+    display: flex;
+    
+    
+}
+
+.subtext  {
+    margin-top: 10px;
+    display: flex;
+    
+
+    
+}
+
+
+.adopt button {
+    color: #f9faf8;
+    background-color: #3882f6;
+    border: #f9faf8 2px solid;
+    padding: 1.5px 23px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.container-img {
+    display: flex;
+    margin-left: 500px;
+    
+    
+}
+
+.content {
+    margin-bottom: 4rem ;
+    display: flex;
+    justify-content: center;
+    font-family: arial;
+
+}
+.hero h2 {
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.hero {
+    
+    kisto
+
+}
+
+
+.info {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    
+}
+
+.info img {
+
+    
+    border-radius: 10px;
+    border: 5px #3882f6 solid
+    
+}
+
+.info p {
+    display: flex;
+    justify-content: center;
+}
+
+.quote  {
+    display: grid;
+    justify-content: center;
+    background-color: #e5e7eb;
+    font-family: arial;
+    font-size: 18px;
+    padding: 2rem;
+
+}
+
+.quote p {
+    font-size: 36px;
+    font-style: italic;
+    padding-bottom: 2rem;
+    
+}
+
+
+
+
+.cta {
+    background-color: #3882f6;
+    color: #f9faf8;
+    padding: 2.5rem;
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+    border-radius: 10px;
+    font-family: arial;
+}
+
+
+.cta button {
+    color: #f9faf8;
+    background-color: #3882f6;
+    border: white solid 2px;
+    border-radius: 5px;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    display: grid;
+    margin-left: 450px;
+}
+
+.footer {
+    display: flex;
+    background-color: #1f2937;
+    justify-content: center;
+    color: #f9faf8;
+    font-size: 18px;
+    font-family: arial;
+    padding: 1.5rem;
+}
